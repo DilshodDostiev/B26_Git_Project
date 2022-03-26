@@ -1,9 +1,9 @@
 package day0;
 
-public class jamesBond{
+public class JamesBond{
 
 
-public static void main (String []) {
+public static void main (String []args ) {
   System.out.println("Jamaes Bond")
 }
                          
